@@ -1,1 +1,1 @@
-dadasd
+Remove-Item -Force -Recurse .git
